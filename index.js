@@ -14,6 +14,6 @@ document.addEventListener("DOMContentLoaded", function() {
         card.style.transition = "top 0.7s ease";
         card.style.top = "0px";
         audio.pause();
-        alert (" HAHAHAHAHAHAHAHAHAHAHAHAHA , sana pls sana");
+        alert (" HAHAHAHAHAHAHAHAHAHAHAHAHA Sana ol");
     });
 });
